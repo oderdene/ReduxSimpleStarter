@@ -26,4 +26,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 
 ```
 > npm install --save youtube-api-search
+> npm install --save lodash
 ```
